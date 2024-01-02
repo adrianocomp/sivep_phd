@@ -13,8 +13,8 @@ ipython_config.py
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
-/catboost_info
-/mlruns
+catboost_info/
+mlruns/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 
