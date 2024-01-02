@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/1/402462be0e9241c59dbe471f8633d362/artifacts
+end_time: 1696429447358
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 402462be0e9241c59dbe471f8633d362
+run_name: Naive Bayes
+run_uuid: 402462be0e9241c59dbe471f8633d362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696429447323
+status: 3
+tags: []
+user_id: adriano

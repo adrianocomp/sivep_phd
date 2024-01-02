@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/7/589e7a33777a484483133f6af6812d7f/artifacts
+end_time: 1695989669595
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 589e7a33777a484483133f6af6812d7f
+run_name: Ada Boost Classifier
+run_uuid: 589e7a33777a484483133f6af6812d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695989669565
+status: 3
+tags: []
+user_id: adriano

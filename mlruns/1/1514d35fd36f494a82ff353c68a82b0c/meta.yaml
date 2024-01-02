@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/1/1514d35fd36f494a82ff353c68a82b0c/artifacts
+end_time: 1695081808535
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1514d35fd36f494a82ff353c68a82b0c
+run_name: SVM - Linear Kernel
+run_uuid: 1514d35fd36f494a82ff353c68a82b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695081808503
+status: 3
+tags: []
+user_id: adriano

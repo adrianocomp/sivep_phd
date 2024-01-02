@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/9/3aaecba9892e42a2a680adf81e7b88a7/artifacts
+end_time: 1696960619840
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 3aaecba9892e42a2a680adf81e7b88a7
+run_name: Extreme Gradient Boosting
+run_uuid: 3aaecba9892e42a2a680adf81e7b88a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696960619805
+status: 3
+tags: []
+user_id: adriano

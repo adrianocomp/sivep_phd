@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/2/44bfc1d224d34ba6a4caff23ce62895c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 44bfc1d224d34ba6a4caff23ce62895c
+run_name: Session Initialized 7fcb
+run_uuid: 44bfc1d224d34ba6a4caff23ce62895c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695221408340
+status: 1
+tags: []
+user_id: adriano

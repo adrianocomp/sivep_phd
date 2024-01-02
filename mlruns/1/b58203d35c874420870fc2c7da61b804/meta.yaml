@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/1/b58203d35c874420870fc2c7da61b804/artifacts
+end_time: 1695748291186
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b58203d35c874420870fc2c7da61b804
+run_name: Linear Discriminant Analysis
+run_uuid: b58203d35c874420870fc2c7da61b804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695748291142
+status: 3
+tags: []
+user_id: adriano

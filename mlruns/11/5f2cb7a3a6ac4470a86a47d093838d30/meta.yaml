@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/11/5f2cb7a3a6ac4470a86a47d093838d30/artifacts
+end_time: 1696967663486
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 5f2cb7a3a6ac4470a86a47d093838d30
+run_name: K Neighbors Classifier
+run_uuid: 5f2cb7a3a6ac4470a86a47d093838d30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696967663453
+status: 3
+tags: []
+user_id: adriano

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/5/6bdd14da9a91431a8d076a297a7cc2f2/artifacts
+end_time: 1696970059593
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 6bdd14da9a91431a8d076a297a7cc2f2
+run_name: Quadratic Discriminant Analysis
+run_uuid: 6bdd14da9a91431a8d076a297a7cc2f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696970059554
+status: 3
+tags: []
+user_id: adriano

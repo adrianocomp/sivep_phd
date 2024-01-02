@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/1/4d3444dc5d2c436d989af5dbb53a368a/artifacts
+end_time: 1696436453057
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d3444dc5d2c436d989af5dbb53a368a
+run_name: Logistic Regression
+run_uuid: 4d3444dc5d2c436d989af5dbb53a368a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696436452579
+status: 3
+tags: []
+user_id: adriano

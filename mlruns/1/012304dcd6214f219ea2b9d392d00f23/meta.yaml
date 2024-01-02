@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/1/012304dcd6214f219ea2b9d392d00f23/artifacts
+end_time: 1695081808056
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 012304dcd6214f219ea2b9d392d00f23
+run_name: Ridge Classifier
+run_uuid: 012304dcd6214f219ea2b9d392d00f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695081807272
+status: 3
+tags: []
+user_id: adriano

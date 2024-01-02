@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/3/c595de4698d743a3ba848bd80ee359d0/artifacts
+end_time: 1695921353590
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: c595de4698d743a3ba848bd80ee359d0
+run_name: Decision Tree Classifier
+run_uuid: c595de4698d743a3ba848bd80ee359d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695921353544
+status: 3
+tags: []
+user_id: adriano

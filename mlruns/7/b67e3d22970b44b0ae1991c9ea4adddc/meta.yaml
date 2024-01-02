@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/7/b67e3d22970b44b0ae1991c9ea4adddc/artifacts
+end_time: 1696969766483
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: b67e3d22970b44b0ae1991c9ea4adddc
+run_name: Extra Trees Classifier
+run_uuid: b67e3d22970b44b0ae1991c9ea4adddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696969766450
+status: 3
+tags: []
+user_id: adriano

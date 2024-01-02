@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/7/4fbe3360cd034ae6b9695a3a2e25c4d0/artifacts
+end_time: 1695989669216
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 4fbe3360cd034ae6b9695a3a2e25c4d0
+run_name: Gradient Boosting Classifier
+run_uuid: 4fbe3360cd034ae6b9695a3a2e25c4d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695989668743
+status: 3
+tags: []
+user_id: adriano

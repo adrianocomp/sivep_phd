@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/3/f1ef01dfc619431aa00c107a6510126b/artifacts
+end_time: 1695921351856
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: f1ef01dfc619431aa00c107a6510126b
+run_name: Random Forest Classifier
+run_uuid: f1ef01dfc619431aa00c107a6510126b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695921351809
+status: 3
+tags: []
+user_id: adriano

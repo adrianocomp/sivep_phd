@@ -1,0 +1,15 @@
+artifact_uri: file:///home/adriano/projetos/Sivep_doutorado/mlruns/1/70d8194ff60f4641aca181ef3afbc806/artifacts
+end_time: 1695390829262
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 70d8194ff60f4641aca181ef3afbc806
+run_name: CatBoost Classifier
+run_uuid: 70d8194ff60f4641aca181ef3afbc806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695390828547
+status: 3
+tags: []
+user_id: adriano
