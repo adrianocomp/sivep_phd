@@ -12,3 +12,7 @@ Technologies used in the project:
 *   Pandas 2.2.3
 *   Pycaret 3.3.2
 *   Numpy 2.1.2
+
+<h2>How to run the codes</h2>
+
+The first step is to install Python 3.10 on your computer. Using the Python Pip package installer, install the libraries pandas, numpy and pycaret. After these installations, install the latest version of Jupiter Notebooks. Your codes will be ready to run on a Jupiter notebook.
